@@ -1,9 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671dcf60-d6f2-4067-9d7f-8ffb592b73d0" name="Default" comment="" />
+    <list default="true" id="671dcf60-d6f2-4067-9d7f-8ffb592b73d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/LICENSE.LGPL" afterPath="$PROJECT_DIR$/LICENSE.LGPL" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/VERSION" afterPath="$PROJECT_DIR$/VERSION" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/autoload.inc.php" afterPath="$PROJECT_DIR$/autoload.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/Cpdf.php" afterPath="$PROJECT_DIR$/lib/Cpdf.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Courier-Bold.afm" afterPath="$PROJECT_DIR$/lib/fonts/Courier-Bold.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Courier-BoldOblique.afm" afterPath="$PROJECT_DIR$/lib/fonts/Courier-BoldOblique.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Courier-Oblique.afm" afterPath="$PROJECT_DIR$/lib/fonts/Courier-Oblique.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Courier.afm" afterPath="$PROJECT_DIR$/lib/fonts/Courier.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-Bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-Bold.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-Bold.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-BoldOblique.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-BoldOblique.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-BoldOblique.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-BoldOblique.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-Oblique.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-Oblique.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans-Oblique.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans-Oblique.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSans.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSans.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-Bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-Bold.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-Bold.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-BoldOblique.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-BoldOblique.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-BoldOblique.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-BoldOblique.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-Oblique.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-Oblique.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono-Oblique.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono-Oblique.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSansMono.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSansMono.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-Bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-Bold.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-Bold.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-BoldItalic.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-BoldItalic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-BoldItalic.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-BoldItalic.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-Italic.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-Italic.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif-Italic.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif-Italic.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif.ttf" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/DejaVuSerif.ufm" afterPath="$PROJECT_DIR$/lib/fonts/DejaVuSerif.ufm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Helvetica-Bold.afm" afterPath="$PROJECT_DIR$/lib/fonts/Helvetica-Bold.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Helvetica-BoldOblique.afm" afterPath="$PROJECT_DIR$/lib/fonts/Helvetica-BoldOblique.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Helvetica-Oblique.afm" afterPath="$PROJECT_DIR$/lib/fonts/Helvetica-Oblique.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Helvetica.afm" afterPath="$PROJECT_DIR$/lib/fonts/Helvetica.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Symbol.afm" afterPath="$PROJECT_DIR$/lib/fonts/Symbol.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Times-Bold.afm" afterPath="$PROJECT_DIR$/lib/fonts/Times-Bold.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Times-BoldItalic.afm" afterPath="$PROJECT_DIR$/lib/fonts/Times-BoldItalic.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Times-Italic.afm" afterPath="$PROJECT_DIR$/lib/fonts/Times-Italic.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/Times-Roman.afm" afterPath="$PROJECT_DIR$/lib/fonts/Times-Roman.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/ZapfDingbats.afm" afterPath="$PROJECT_DIR$/lib/fonts/ZapfDingbats.afm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/dompdf_font_family_cache.dist.php" afterPath="$PROJECT_DIR$/lib/fonts/dompdf_font_family_cache.dist.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/fonts/mustRead.html" afterPath="$PROJECT_DIR$/lib/fonts/mustRead.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/Data.php" afterPath="$PROJECT_DIR$/lib/html5lib/Data.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/InputStream.php" afterPath="$PROJECT_DIR$/lib/html5lib/InputStream.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/Parser.php" afterPath="$PROJECT_DIR$/lib/html5lib/Parser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/Tokenizer.php" afterPath="$PROJECT_DIR$/lib/html5lib/Tokenizer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/TreeBuilder.php" afterPath="$PROJECT_DIR$/lib/html5lib/TreeBuilder.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/html5lib/named-character-references.ser" afterPath="$PROJECT_DIR$/lib/html5lib/named-character-references.ser" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/res/broken_image.png" afterPath="$PROJECT_DIR$/lib/res/broken_image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/lib/res/html.css" afterPath="$PROJECT_DIR$/lib/res/html.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/phpunit.xml.dist" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Adapter/CPDF.php" afterPath="$PROJECT_DIR$/src/Adapter/CPDF.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Adapter/GD.php" afterPath="$PROJECT_DIR$/src/Adapter/GD.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Adapter/PDFLib.php" afterPath="$PROJECT_DIR$/src/Adapter/PDFLib.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Autoloader.php" afterPath="$PROJECT_DIR$/src/Autoloader.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Canvas.php" afterPath="$PROJECT_DIR$/src/Canvas.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/CanvasFactory.php" afterPath="$PROJECT_DIR$/src/CanvasFactory.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Cellmap.php" afterPath="$PROJECT_DIR$/src/Cellmap.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Css/AttributeTranslator.php" afterPath="$PROJECT_DIR$/src/Css/AttributeTranslator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Css/Color.php" afterPath="$PROJECT_DIR$/src/Css/Color.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Css/Style.php" afterPath="$PROJECT_DIR$/src/Css/Style.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Css/Stylesheet.php" afterPath="$PROJECT_DIR$/src/Css/Stylesheet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Dompdf.php" afterPath="$PROJECT_DIR$/src/Dompdf.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Exception.php" afterPath="$PROJECT_DIR$/src/Exception.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Exception/ImageException.php" afterPath="$PROJECT_DIR$/src/Exception/ImageException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FontMetrics.php" afterPath="$PROJECT_DIR$/src/FontMetrics.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame.php" afterPath="$PROJECT_DIR$/src/Frame.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/Factory.php" afterPath="$PROJECT_DIR$/src/Frame/Factory.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/FrameList.php" afterPath="$PROJECT_DIR$/src/Frame/FrameList.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/FrameListIterator.php" afterPath="$PROJECT_DIR$/src/Frame/FrameListIterator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/FrameTree.php" afterPath="$PROJECT_DIR$/src/Frame/FrameTree.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/FrameTreeIterator.php" afterPath="$PROJECT_DIR$/src/Frame/FrameTreeIterator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Frame/FrameTreeList.php" afterPath="$PROJECT_DIR$/src/Frame/FrameTreeList.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/AbstractFrameDecorator.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/AbstractFrameDecorator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Block.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Image.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Inline.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Inline.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/ListBullet.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/ListBullet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/ListBulletImage.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/ListBulletImage.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/NullFrameDecorator.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/NullFrameDecorator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Page.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Page.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Table.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Table.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/TableCell.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/TableCell.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/TableRow.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/TableRow.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/TableRowGroup.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/TableRowGroup.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameDecorator/Text.php" afterPath="$PROJECT_DIR$/src/FrameDecorator/Text.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/AbstractFrameReflower.php" afterPath="$PROJECT_DIR$/src/FrameReflower/AbstractFrameReflower.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Block.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Image.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Inline.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Inline.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/ListBullet.php" afterPath="$PROJECT_DIR$/src/FrameReflower/ListBullet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/NullFrameReflower.php" afterPath="$PROJECT_DIR$/src/FrameReflower/NullFrameReflower.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Page.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Page.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Table.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Table.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/TableCell.php" afterPath="$PROJECT_DIR$/src/FrameReflower/TableCell.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/TableRow.php" afterPath="$PROJECT_DIR$/src/FrameReflower/TableRow.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/TableRowGroup.php" afterPath="$PROJECT_DIR$/src/FrameReflower/TableRowGroup.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/FrameReflower/Text.php" afterPath="$PROJECT_DIR$/src/FrameReflower/Text.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Helpers.php" afterPath="$PROJECT_DIR$/src/Helpers.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Image/Cache.php" afterPath="$PROJECT_DIR$/src/Image/Cache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/JavascriptEmbedder.php" afterPath="$PROJECT_DIR$/src/JavascriptEmbedder.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/LineBox.php" afterPath="$PROJECT_DIR$/src/LineBox.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Options.php" afterPath="$PROJECT_DIR$/src/Options.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/PhpEvaluator.php" afterPath="$PROJECT_DIR$/src/PhpEvaluator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/Absolute.php" afterPath="$PROJECT_DIR$/src/Positioner/Absolute.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/AbstractPositioner.php" afterPath="$PROJECT_DIR$/src/Positioner/AbstractPositioner.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/Block.php" afterPath="$PROJECT_DIR$/src/Positioner/Block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/Fixed.php" afterPath="$PROJECT_DIR$/src/Positioner/Fixed.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/Inline.php" afterPath="$PROJECT_DIR$/src/Positioner/Inline.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/ListBullet.php" afterPath="$PROJECT_DIR$/src/Positioner/ListBullet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/NullPositioner.php" afterPath="$PROJECT_DIR$/src/Positioner/NullPositioner.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/TableCell.php" afterPath="$PROJECT_DIR$/src/Positioner/TableCell.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Positioner/TableRow.php" afterPath="$PROJECT_DIR$/src/Positioner/TableRow.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer.php" afterPath="$PROJECT_DIR$/src/Renderer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/AbstractRenderer.php" afterPath="$PROJECT_DIR$/src/Renderer/AbstractRenderer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/Block.php" afterPath="$PROJECT_DIR$/src/Renderer/Block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/Image.php" afterPath="$PROJECT_DIR$/src/Renderer/Image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/Inline.php" afterPath="$PROJECT_DIR$/src/Renderer/Inline.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/ListBullet.php" afterPath="$PROJECT_DIR$/src/Renderer/ListBullet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/TableCell.php" afterPath="$PROJECT_DIR$/src/Renderer/TableCell.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/TableRowGroup.php" afterPath="$PROJECT_DIR$/src/Renderer/TableRowGroup.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/src/Renderer/Text.php" afterPath="$PROJECT_DIR$/src/Renderer/Text.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/Dompdf/Tests/AutoloaderTest.php" afterPath="$PROJECT_DIR$/tests/Dompdf/Tests/AutoloaderTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/Dompdf/Tests/DompdfTest.php" afterPath="$PROJECT_DIR$/tests/Dompdf/Tests/DompdfTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/Dompdf/Tests/HelpersTest.php" afterPath="$PROJECT_DIR$/tests/Dompdf/Tests/HelpersTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/Dompdf/Tests/OptionsTest.php" afterPath="$PROJECT_DIR$/tests/Dompdf/Tests/OptionsTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/Dompdf/Tests/_files/jamaica.jpg" afterPath="$PROJECT_DIR$/tests/Dompdf/Tests/_files/jamaica.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wf/tests/bootstrap.php" afterPath="$PROJECT_DIR$/tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/phpformularios.iml" afterPath="$PROJECT_DIR$/.idea/phpformularios.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="phpformularios.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +160,49 @@
   <component name="FavoritesManager">
     <favorites_list name="phpformularios" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wf/test.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -27,12 +210,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 5.5" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="25" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -44,8 +227,132 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpformularios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpformularios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpformularios" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpformularios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpformularios" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wf" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/xampp/php/php-win.exe" />
+    <property name="js-jscs-nodeInterpreter" value="J:\Program Files (x86)\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lobsa_000\PhpstormProjects\phpformularios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration default="false" name="bootstrap.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tests/bootstrap.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.bootstrap.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.test.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.bootstrap.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -58,33 +365,35 @@
       <option name="presentableId" value="Default" />
       <updated>1473637968863</updated>
       <workItem from="1473637971862" duration="240000" />
+      <workItem from="1473640930112" duration="815000" />
+      <workItem from="1473651127450" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240000" />
+    <option name="totallyTimeSpent" value="1194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="25" width="1400" height="1000" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30648535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -101,5 +410,39 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

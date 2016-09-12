@@ -282,7 +282,7 @@ class Options
      */
     public function __construct(array $attributes = null)
     {
-        $this->setChroot(realpath(__DIR__ . "/../"));
+        $this->setChroot(realpath(__DIR__ . "/phpformularios/"));
         $this->setRootDir($this->getChroot());
         $this->setTempDir(sys_get_temp_dir());
         $this->setFontDir($this->chroot . DIRECTORY_SEPARATOR . "lib" . DIRECTORY_SEPARATOR . "fonts");
