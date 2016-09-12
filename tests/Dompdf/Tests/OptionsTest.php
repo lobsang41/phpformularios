@@ -8,7 +8,7 @@ class OptionsTest extends PHPUnit_Framework_TestCase
 {
     public function testConstructor()
     {
-        $root = realpath(__DIR__ . "/../../phpformularios");
+        $root = realpath(__DIR__ . "/../../..");
         $option = new Options();
         $this->assertEquals(sys_get_temp_dir(), $option->getTempDir());
         $this->assertEquals($root . '/lib/fonts', $option->getFontDir());

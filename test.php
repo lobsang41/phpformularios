@@ -1,16 +1,23 @@
 <?php
-include("checklog.php");
-require_once("watchlist-controller.php");
-require_once("dompdf/dompdf_config.inc.php");
+require 'vendor/autoload.php';
+use Dompdf\Dompdf;
 ob_start();
 ?>
 
     <html>...</html>
 
 <?php
-$html = ob_get_clean();
-$dompdf = new DOMPDF();
-$dompdf->load_html($html);
+
+// instantiate and use the dompdf class
+$dompdf = new Dompdf();
+$dompdf->loadHtml('hello world');
+
+// (Optional) Setup the paper size and orientation
+$dompdf->setPaper('A4', 'landscape');
+
+// Render the HTML as PDF
 $dompdf->render();
-$dompdf->stream("sample.pdf");
+
+// Output the generated PDF to Browser
+$dompdf->stream();
 ?>
